@@ -48,7 +48,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          repository: daoudeddy/xmltv-epg
+          repository: newf276/xmltv-epg
           tag_name: '${{ env.DATE }}'
           files: |
             epg/epg-*.xml
