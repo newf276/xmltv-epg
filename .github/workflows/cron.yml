@@ -6,7 +6,7 @@ name: XMLTV Grab
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 2 * * *'
+    - cron: '00 */1 * * *'
     
 permissions:
   contents: write
