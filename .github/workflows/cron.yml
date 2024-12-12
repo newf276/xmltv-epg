@@ -6,7 +6,7 @@ name: XMLTV Grab
 on:
   workflow_dispatch:
   schedule:
-    - cron: '00 */1 * * *'
+    - cron: '00 */6 * * *' # Runs every 6 hrs
     
 permissions:
   contents: write
@@ -32,7 +32,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with: 
-          repository: iptv-org/epg
+          repository: newf276/epg
           path: epg
       - name: NPM Install
         working-directory: ./epg
