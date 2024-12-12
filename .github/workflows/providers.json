@@ -5,5 +5,10 @@
       "site": "xumo.tv",
       "lang": "en"
     },
+    {
+      "name": "epg-tvpassport-en",
+      "site": "tvpassport.com",
+      "lang": "en"
+    }
   ]
 }
