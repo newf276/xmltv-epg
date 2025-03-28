@@ -6,8 +6,8 @@ Provide daily EPG for selected websites using [iptv-org/epg](https://github.com/
 
 | Websites |                  English                 |
 |----------|:-----------------------------------------:|
-|   Pluto  |  [xml][pluto-xml] - [gzip][pluto-gzip] |
-|   Plex   |  [xml][plex-xml] - [gzip][plex-gzip] |
+|   Pluto  |  [xml][pluto-en-xml] - [gzip][pluto-en-gzip] |
+|   Plex   |  [xml][plex-en-xml] - [gzip][plex-en-gzip] |
 
 [pluto-en-xml]: https://github.com/newf276/xmltv-epg/releases/latest/download/epg-pluto.xml
 [plex-en-xml]: https://github.com/newf276/xmltv-epg/releases/latest/download/epg-plex.xml
