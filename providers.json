@@ -1,0 +1,14 @@
+{
+  "include": [
+    {
+      "name": "epg-pluto",
+      "site": "pluto.tv",
+      "lang": "en"
+    },
+    { 
+      "name": "epg-plex",
+      "site": "plex.tv",
+      "lang": "en"
+    }
+  ]
+}
